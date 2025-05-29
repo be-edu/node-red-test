@@ -1,0 +1,18 @@
+[
+    {
+        "id": "66a18519e07582d7",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6b3e9915b5a881c1",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    }
+]
